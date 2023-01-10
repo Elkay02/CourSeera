@@ -1,3 +1,1 @@
-# CMPS 252 HW4
-
-# Jad S, Ramish S, Karim J, Fadi H
+CourSeera is a tool for university students that parses the courses given in a semester, creates special data structures and allows the student to view, using various queries on a java application, professors, classrooms and course schedules.
