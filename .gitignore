@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings
+bin/
+*.html
+*.csv
+*.iml
+*.ipr
+*.iws
+out/
+*.jar
+*.json
